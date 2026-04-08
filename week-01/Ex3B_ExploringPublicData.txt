@@ -1,0 +1,46 @@
+1. Start by reviewing the data.gov home page. What is this?
+
+The home of the U.S Government's Open Data
+
+2. Go to Most Viewed Datasets. How many datasets are listed?
+
+402,373 datasets
+
+3. Find the Topic Category for Human Health. Review the range of data sources
+available for this topic. Why do you think these were tagged with the Human Health
+category?
+
+These were tagged to show food and farming stuff because humans need to eat to live, and environmental issues because if the environment is bad the world is inhabitable. Also just topics about the human body because we're humans.
+
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you
+navigate to additional datasets from the USDA?
+
+The Metadata tags that have additional links to other datasets
+
+5. Try searching for your city, county, and state. What organizations are returned?
+
+I searched Chicago and City of Chicago organization came up.
+
+
+6. Search for USDA, and click into the result. Within the USDA datasets, search for food
+composition. Notice that the top three results are all datasets concerning nutrition
+information. Try searching the USDA page for nutrition. How does that affect your
+results?
+a) One of the tricky things about working with data is that sometimes the terminology
+used by a data source is not obvious. You may need to dig around and be creative
+to find what you’re looking for.
+
+Nutrition is a broad range of info where if you put Food safety and Nutrition you get more specific results.
+
+7. Go back to the results for food composition, and click on FoodData Central. Review
+the catalog page for this data source, then click on the button for Visit Page. Take
+some time to explore the FoodData Central website.
+a) Try searching for butter, or any of your favorite foods. What kind of results do you
+get? What happens when you click on a result?
+b) Go back to the home page. Find Foundation Foods, and click on Downloads. What
+kind of data can you find on this page? How big are these files? Where can you find
+more information on the data types available?
+
+A) I searched dumplings because that's my favorite food but I got results for SR Legacy Foods, Survey Foods and Branded Foods. When I click on them there's a bunch of filter options I can use.
+
+B) You can find how big the files are zipped and Unzipped on the far right hand side and the Data Types are on the Far Left side.
