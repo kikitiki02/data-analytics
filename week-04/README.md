@@ -8,6 +8,10 @@ https://yearuptemp-my.sharepoint.com/personal/kmarsh1\_my\_yearupunited\_org/\_l
 
 
 
+
+
+
+
 **For my summary stats for average bottle price and total sum for all rum sales I used these queries:**
 
 
