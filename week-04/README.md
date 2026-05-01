@@ -2,6 +2,12 @@
 
 
 
+Link to 10 min present video:
+
+https://yearuptemp-my.sharepoint.com/personal/kmarsh1\_my\_yearupunited\_org/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fkmarsh1\_my\_yearupunited\_org%2FDocuments%2FAttachments%2Fcopy\_370B922B-5246-48AA-9A4A-3B77C79DF9A2.mov\&ct=1777616683431\&or=OWA-NT-Mail\&cid=cf97ef61-3861-a316-e250-deb9a7fb09f1\&ga=1\&referrer=StreamWebApp.Web\&referrerScenario=AddressBarCopied.view.53b26e02-3f35-4968-97bd-3a342c97ad90
+
+
+
 **For my summary stats for average bottle price and total sum for all rum sales I used these queries:**
 
 
