@@ -4,7 +4,9 @@
 
 **Link to 10 min present video:**
 
-https://drive.google.com/file/d/1ms25z9guDpepd9zclK1wFq\_Xdy5SeyND/view?usp=sharing
+https://drive.google.com/file/d/1ms25z9guDpepd9zclK1wFq\_Xdy5SeyND/view
+
+
 
 
 
