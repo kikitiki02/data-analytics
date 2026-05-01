@@ -88,6 +88,14 @@ LIMIT 5
 SELECT DISTINCT category_name
 FROM public.sales
 WHERE category_name ILIKE '%Rum%'
+
+-- 9.1 Extra data finding for myself for rum categories
+SELECT DISTINCT category_name,SUM(total::numeric)::money AS categorysales
+FROM public.sales
+WHERE category_name ILIKE '%Rum%'
+GROUP BY category_name
+ORDER BY categorysales DESC
+
 /* Theres 5 distinct category names, Barbados rum, flavored rum, jamaica rum, puerto rico & virgin islands rum, and spiced rum */
 
 -- 10. List all transactions where the state bottle cost was between $10 and $20 for Rum
@@ -193,3 +201,10 @@ AND store IN(
 	SELECT store
 	FROM public.stores
 	WHERE store_status = 'A')
+
+-- 21. Extra research on other popular products
+SELECT DISTINCT SUM(total::numeric)::money AS popularproduct ,item, sales.category_name,description
+FROM public.sales
+GROUP BY sales.category_name, item, description
+ORDER BY popularproduct DESC
+LIMIT 5
