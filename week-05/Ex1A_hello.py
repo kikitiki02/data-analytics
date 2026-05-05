@@ -16,4 +16,5 @@ print(dollars + cents)
 d_str = str(dollars)
 c_str = str(cents)
 print("I have " + d_str + " dollars and " + c_str + " cents.")
+# My practice dollars 
 
