@@ -8,4 +8,4 @@ years = 18
 future = savings * interest * years
 
 print(f"Your current savings is {savings}.")
-print(f"A {interest}%  interest rate, your savings account will be worth {future} in {years} years. ")
+print(f"A {interest:.2f}%  interest rate, your savings account will be worth {future} in {years} years. ")

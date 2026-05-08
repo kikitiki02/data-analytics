@@ -5,4 +5,4 @@ tip_percent = .30
 
 tip = bill * tip_percent
 
-print(f"The tip on a ${bill} restaurant bill is {tip}")
+print(f"The tip on a ${bill} restaurant bill is {tip:.2f}")
