@@ -18,8 +18,6 @@ def dep(code):
         return "IT"
     elif code == 20:
         return "Customer Relations"
-    else:
-        return "Invalid department code"
     
     codes = [1, 5, 10, 12, 18, 20]
     for code in codes:
