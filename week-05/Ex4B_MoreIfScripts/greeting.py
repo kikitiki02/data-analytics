@@ -6,11 +6,13 @@
 #10:00am until 5:00pm Good day!
 #5:00pm or later Good evening!
 
-hour = 11
+hour = 23
 
 if hour < 10:
     print("Good morning")
 elif hour < 17:
     print("Good day")
+elif hour > 11 and 4:
+    print ("why are you up...?")
 else:
     print("Good evening")
