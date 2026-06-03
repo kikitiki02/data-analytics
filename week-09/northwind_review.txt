@@ -1,0 +1,23 @@
+1. What does a value in this column represent? What values might you see here.
+- In the products table a value could be units in stock or units on order or quantity per unit. Even unit price. 
+
+2. Is this column a part of the primary key to this table?
+- Product ID, Supplier ID and Category ID
+
+3. Is this column a part of a foreign key that points to a record in another table?
+- The foreign keys are Products_categories, products_suppliers
+
+4. Would this column be valuable to bring into our Power BI Model? Yes, or no? Why?
+- Yes because it connects supplier info, product info and category info which could be put into sales to make graphs etc
+
+5. Do you believe this column is appropriately named for Data Analysis purposes?
+- Yeah?
+
+6. If not, what might be a more appropriate name?
+- I mean products is pretty straight forward so...
+
+7.  What might be the data type and format for this column in a Power BI Model?
+- You could do like for supplier how much gets supplied 
+
+8. Can you think of any calculations where this column data might be used?
+- calculating revenue or calculating sales and prices of products
